@@ -1,0 +1,23 @@
+"Announcements"
+{
+	"1"
+	{
+		"message"		"Want to spawn a prop? Do {green}!spawn{default}!"
+	}
+	"2"
+	{
+		"message"		""
+	}
+	"3"
+	{
+		"message"		""
+	}
+	"4"
+	{
+		"message"		""
+	}
+	"5"
+	{
+		"message"		""
+	}
+}

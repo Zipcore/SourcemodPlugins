@@ -1,0 +1,8 @@
+"Money"
+{
+	"STEAM_0:1:47194373"
+	{
+		"steamid"		"STEAM_0:1:47194373"
+		"balance"		"104"
+	}
+}
